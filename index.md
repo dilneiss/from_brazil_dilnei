@@ -4,6 +4,7 @@ Olá, me chamo Dilnei, nascido em 1988, natural de Braco do Norte, S.C / Brasil.
 Hoje sou casado e tenho um filho de 1 ano e 9 mêses.
 
 Este é um breve resumo profissional meu.
+Já vou adiantando que sou perfeicionista, consigo encontrar os detalhes nos detalhes de algo que está errado.
 
 ### Áreas que trabalhei
 
@@ -26,9 +27,19 @@ Aprendi inglês por vontade própria jogando vídeo games querendo entender o qu
 
 #### Softwares
 ##### Destaque
-- PHP, MYSQL, JQUERY (> 17 anos, 10 anos na profissão)
+- PHP (5.6, 7, 8), MYSQL, JQUERY (> 17 anos, 10 anos na profissão)
 - Redis (> 3 anos)
 - RabbitMQ (> 2 anos)
-- 
+
+##### Frameworks
+- Laravel + backpack (> 4 anos, não profissional)
+
 ##### Adicionais
+- Postgresql
 - Angular
+- MongoDB
+- GIT, Github, Gitlab, bitbucket)
+- SQS (AWS)
+- CI/CD
+- Docker
+- Homestead/Vagrant
