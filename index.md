@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Resumo Profissional de Dilnei
 
-You can use the [editor on GitHub](https://github.com/dilneiss/dilnei/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Olá, me chamo Dilnei, nascido em 1988, natural de Braco do Norte, S.C / Brasil.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este é um breve resumo profissional meu.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Áreas que trabalhei
 Syntax highlighted code block
 
 # Header 1
