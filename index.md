@@ -25,4 +25,10 @@ Não senti a necessidade de ter uma formação profissional, a faculdade não en
 Aprendi inglês por vontade própria jogando vídeo games querendo entender o que acontecia na história, hoje meu inglês eu considero intermediário, quase avançado, pois eu consigo ler, escrever, escutar e falar bastante coisas, sou um pouco inferrujado apenas na fala pois não pratico muito no dia a dia.
 
 #### Softwares
-Teste
+##### Destaque
+- PHP, MYSQL, JQUERY (> 17 anos, 10 anos na profissão)
+- Redis (> 3 anos)
+- RabbitMQ (> 2 anos)
+- 
+##### Adicionais
+- Angular
