@@ -5,6 +5,7 @@ Today my summary experience would be:
 * 11 years with e-commerce
 * 7 years with SASS Platforms
 * 6 years with Laravel.
+
 I also work a lot with: Lumen, Slim, Codeigniter, VueJS, Angular.
 Experienced in unit testing, integration and end-to-end.
 I have extensive experience in Agile methodologies.
