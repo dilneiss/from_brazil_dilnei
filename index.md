@@ -1,4 +1,4 @@
-## Resumo Profissional de Dilnei
+## Dilnei Professional Summary
 
 Programador motivado, com 17 anos de experiência progressiva em setor de TI. Oferecendo conhecimentos em PHP, com ampla experiência em metodologias Ágeis e 1 ano de experiência em OKR. Programador energético, independente e formador de equipes, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente e abaixo do orçamento.
 
