@@ -1,41 +1,58 @@
 ## Dilnei Professional Summary
+Passionate about website and application development since 2002, I entered the e-commerce area as a developer in 2009 and went deeper in 2014.
+Today my summary experience would be:
+* More than 20 years with PHP
+* 11 years with e-commerce
+* 7 years with SASS Platforms
+* 6 years with Laravel.
+I also work a lot with: Lumen, Slim, Codeigniter, VueJS, Angular.
+Experienced in unit testing, integration and end-to-end.
+I have extensive experience in Agile methodologies.
+I am energetic, independent and able to navigate high-stress situations to achieve goals.
 
-Programador motivado, com 17 anos de experiência progressiva em setor de TI. Oferecendo conhecimentos em PHP, com ampla experiência em metodologias Ágeis e 1 ano de experiência em OKR. Programador energético, independente e formador de equipes, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente e abaixo do orçamento.
+### Areas I've worked on (Newest First)
 
-### Áreas que trabalhei
+#### Fullstack developer, financial squad - Conecta Lá 06/2021
+* Payment gateway API integrations
+* Integrations with Marketplaces and Hubs
+* Restful API development for the virtual store
+* Monitoring and maintenance of system errors.
+* Process performance optimization
 
-#### Técnico de Informática - Tchê Presentes 01/2007 - 01/2012
-* Instalação, montagem e reparo de dispositivos e peças do sistema.
-* Prevenção e resolução de problemas comuns de conectividade.
-* Uso de métodos para melhoria de processos a fim de aprimorar a qualidade do serviço.
-* Criação e manutenção de redes de computadores em empresas, escolas, órgãos públicos, hospitais e residências.
+#### Fullstack Developer - Climba Commerce 01/2012 - 06/2021
+* Payment gateway API integrations
+* Carrier API integrations
+* Integrations with Marketplaces and Hubs
+* Restful API development for the virtual store
+* Development of integration environment for ERP systems
+* Monitoring and maintenance of system errors.
+* Process performance optimization
+* Automated tests (Unit, Integration, End-to-End)
 
-#### Desenvolvedor Fullstack - Climba Commerce 01/2012
-* Integrações com API de gateways de pagamento
-* Integrações com API de transportadoras
-* Integrações com Marketplaces e Hubs
-* Desenvolvimento de API Restful para a loja virtual
-* Desenvolvimento de ambiente de integração para sistemas ERP
-* Monitoramento e manutenção de erros no sistema.
-* Otimização de desempenho de processos
-* Testes automatizados (unit e feature)
+#### Computer Technician - Tchê Presentes 01/2007 - 01/2012
+* Installation, assembly and repair of devices and system parts.
+* Prevention and resolution of common connectivity issues.
+* Use of process improvement methods to improve service quality.
+* Creation and maintenance of computer networks in companies, schools, public agencies, hospitals and homes.
 
-### Formação
+### Formation
+I didn't feel the need to have a professional training, the college doesn't teach everything I need to know, salaries in our city are unfortunately very low, so I couldn't afford to pay a college for that, but in compensation, I took many free courses on the internet and I learned a lot, but a lot even in everyday practice.
 
-Não senti a necessidade de ter uma formação profissional, a faculdade não ensina tudo que eu preciso saber, os salários em nossa cidade infelizmente são muito baixo, então não tive condições de pagar uma faculdade para tal, porém em compensação, eu consumi muitos cursos gratuítos na internet e aprendi muita, mas muita coisa mesmo na prática do dia a dia.
+### Skills
+* Use of best practices in third-party API integrations
+* I have been working with agile methodologies since 2012
+* I have been working with PHP professionally since 2012
+* Enthusiastic with MVC, Design Patterns and SOLID
+* Good knowledge of Test Driven Development (TDD)
+* Advanced development with messaging
+* I use and much prefer to work with frameworks like Laravel, where I have experience since 2004
+* Work with Mysql database since 2002
+* I develop on SASS systems and hosted on AWS
+* Versioning with GIT and CI/CD to deploy the application
+* Expert problem solving to find, trace a resolution, fix, test, apply automated tests.
 
-### Competências
-* Uso de boas práticas em integrações com API de terceiro
-* Trabalho a mais de 10 anos com metodologias ágeis
-* Trabalho com PHP profissionalmente a 10 anos e não profissional a mais de 17 anos
-* Trabalho com diversos padrões de projetos, como MVC e Design Patterns
-* Bons conhecimentos de desenvolvimento orientado a testes (TDD)
-* Desenvolvimento avançado com mensagerias
-* Uso e prefiro muito trabalhar com frameworks como o Laravel, onde tenho experiência a mais de 3 anos
-* Trabalho com banco de dados Mysql a mais de 17 anos e postgreSQL a 2 anos
-* Desenvolvo em sistemas SASS e com hospedagem na AWS
-* Versionamento com GIT e CI / CD para deployar a aplicação
-* Especialista na resolução de problemas para encontrar, traçar uma resolução, corrigir, testar, aplicar testes automatizados.
+### Languages
+Advanced English (I can read/write without any difficulty, I can hear and understand 95% of the speeches, I can speak a lot in English too, but as I don't practice much on a daily basis, I have a little difficulty, but I intend to work on it so I don't have no barrier)
 
-### Idiomas
-Inglês Avançado
+### Why should I be hired?
+I am not just another programmer in the world, I am a programmer who is passionate about what he does, loves to always learn new things, is not afraid of a challenge and always manages to deliver the work with the best possible quality. I'm very demanding of myself.
