@@ -57,19 +57,19 @@ I didn't feel the need to have a professional training in college, because it do
 * Laravel ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
 * Lumen ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
-* Code Igniter ![badge](https://img.shields.io/badge/Médio-from_2021-green)
-* Node JS ![badge](https://img.shields.io/badge/Aprendendo-from_2021-lightgrey)
-* C# + .NET ![badge](https://img.shields.io/badge/Aprendendo-from_2021-lightgrey)
-* Python ![badge](https://img.shields.io/badge/Aprendendo-from_2021-lightgrey)
-* Go lang ![badge](https://img.shields.io/badge/Aprendendo-from_2021-lightgrey)
+* Code Igniter ![badge](https://img.shields.io/badge/Medium-from_2021-green)
+* Node JS ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
+* C# + .NET ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
+* Python ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
+* Go lang ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
 * Unit Tests (PHPUnit) ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 
 #### Front End / Frameworks
-* CSS ![badge](https://img.shields.io/badge/Básico-from_2002-yellow)
-* SCSS ![badge](https://img.shields.io/badge/Básico-from_2016-yellow)
+* CSS ![badge](https://img.shields.io/badge/Basic-from_2002-yellow)
+* SCSS ![badge](https://img.shields.io/badge/Basic-from_2016-yellow)
 * Javascript ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
 * Bootstrap ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
-* Material Design ![badge](https://img.shields.io/badge/Básico-from_2019-yellow)
+* Material Design ![badge](https://img.shields.io/badge/Basic-from_2019-yellow)
 * Angular ![badge](https://img.shields.io/badge/Advanced-from_2017-blue)
 * Vue ![badge](https://img.shields.io/badge/Advanced-from_2021-blue)
 * Knowledge of Best Practices for SEO ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
@@ -77,13 +77,13 @@ I didn't feel the need to have a professional training in college, because it do
 #### Database / Cache Services
 * Mysql ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
 * Postgresql ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
-* MongoDB ![badge](https://img.shields.io/badge/Aprendendo-from_2020-lightgrey)
+* MongoDB ![badge](https://img.shields.io/badge/Learning-from_2020-lightgrey)
 * Redis ![badge](https://img.shields.io/badge/Advanced-from_2015-blue)
-* Memcached ![badge](https://img.shields.io/badge/Básico-from_2015-yellow)
+* Memcached ![badge](https://img.shields.io/badge/Basic-from_2015-yellow)
 
 #### Environment
-* Docker ![badge](https://img.shields.io/badge/Básico-from_2020-yellow)
-* Laradock ![badge](https://img.shields.io/badge/Básico-from_2020-yellow)
+* Docker ![badge](https://img.shields.io/badge/Basic-from_2020-yellow)
+* Laradock ![badge](https://img.shields.io/badge/Basic-from_2020-yellow)
 * Xampp ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
 
 #### Architectures
@@ -93,7 +93,7 @@ I didn't feel the need to have a professional training in college, because it do
 
 #### Devops
 * Cpanel ![badge](https://img.shields.io/badge/Advanced-from_2008-blue)
-* Amazon AWS ![badge](https://img.shields.io/badge/Médio-from_2016-orange)
+* Amazon AWS ![badge](https://img.shields.io/badge/Medium-from_2016-orange)
 * CI/CD ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 
 #### Others
@@ -102,7 +102,7 @@ I didn't feel the need to have a professional training in college, because it do
 * Kanbam ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
 * Agile ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Scrum ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
-* OKR ![badge](https://img.shields.io/badge/Básico-from_2020-yellow)
+* OKR ![badge](https://img.shields.io/badge/Basic-from_2020-yellow)
 * Design Patterns ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 * Object Orientation (OOP) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Messaging (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
