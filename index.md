@@ -36,7 +36,7 @@ Today my summary experience would be:
 * Creation and maintenance of computer networks in companies, schools, public agencies, hospitals and homes.
 
 ### Formation
-I didn't feel the need to have a professional training, the college doesn't teach everything I need to know, salaries in our city are unfortunately very low, so I couldn't afford to pay a college for that, but in compensation, I took many free courses on the internet and I learned a lot, but a lot even in everyday practice.
+I didn't feel the need to have a professional training in college, because it doesn't teach me everything I need to know, I've always been a person to go after what I really want, so all the knowledge and experiences came from research, courses, work and a lot of dedication.
 
 ### Skills
 * Use of best practices in third-party API integrations
