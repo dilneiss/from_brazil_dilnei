@@ -53,9 +53,9 @@ I didn't feel the need to have a professional training in college, because it do
 
 ### Knowledge
 #### Back End / Frameworks
-* PHP ![badge](https://img.shields.io/badge/Avançado-from_2002-blue)
+* PHP ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
 * Laravel ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
-* Lumen ![badge](https://img.shields.io/badge/Avançado-from_2016-blue)
+* Lumen ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 * Code Igniter ![badge](https://img.shields.io/badge/Médio-from_2021-green)
 * Node JS ![badge](https://img.shields.io/badge/Aprendendo-from_2021-lightgrey)
@@ -67,7 +67,7 @@ I didn't feel the need to have a professional training in college, because it do
 #### Front End / Frameworks
 * CSS ![badge](https://img.shields.io/badge/Básico-from_2002-yellow)
 * SCSS ![badge](https://img.shields.io/badge/Básico-from_2016-yellow)
-* Javascript ![badge](https://img.shields.io/badge/Avançado-from_2002-blue)
+* Javascript ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
 * Bootstrap ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Material Design ![badge](https://img.shields.io/badge/Básico-from_2019-yellow)
 * Angular ![badge](https://img.shields.io/badge/Advanced-from_2017-blue)
@@ -75,8 +75,8 @@ I didn't feel the need to have a professional training in college, because it do
 * Knowledge of Best Practices for SEO ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
 
 #### Database / Cache Services
-* Mysql ![badge](https://img.shields.io/badge/Avançado-from_2002-blue)
-* Postgresql ![badge](https://img.shields.io/badge/Avançado-from_2018-blue)
+* Mysql ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
+* Postgresql ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 * MongoDB ![badge](https://img.shields.io/badge/Aprendendo-from_2020-lightgrey)
 * Redis ![badge](https://img.shields.io/badge/Advanced-from_2015-blue)
 * Memcached ![badge](https://img.shields.io/badge/Básico-from_2015-yellow)
@@ -84,17 +84,17 @@ I didn't feel the need to have a professional training in college, because it do
 #### Environment
 * Docker ![badge](https://img.shields.io/badge/Básico-from_2020-yellow)
 * Laradock ![badge](https://img.shields.io/badge/Básico-from_2020-yellow)
-* Xampp ![badge](https://img.shields.io/badge/Avançado-from_2012-blue)
+* Xampp ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
 
 #### Architectures
-* MVC ![badge](https://img.shields.io/badge/Avançado-from_2014-blue)
+* MVC ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Rest ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
-* Soap ![badge](https://img.shields.io/badge/Avançado-from_2012-blue)
+* Soap ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
 
 #### Devops
 * Cpanel ![badge](https://img.shields.io/badge/Advanced-from_2008-blue)
 * Amazon AWS ![badge](https://img.shields.io/badge/Médio-from_2016-orange)
-* CI/CD ![badge](https://img.shields.io/badge/Avançado-from_2018-blue)
+* CI/CD ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 
 #### Others
 * Jira ![badge](https://img.shields.io/badge/Advanced-from_2012-blue)
