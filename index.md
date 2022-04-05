@@ -45,7 +45,7 @@ I didn't feel the need to have a professional training in college, because it do
 * Enthusiastic with MVC, Design Patterns and SOLID
 * Good knowledge of Test Driven Development (TDD)
 * Advanced development with messaging
-* I use and much prefer to work with frameworks like Laravel, where I have experience since 2004
+* I use and much prefer to work with frameworks like Laravel
 * Work with Mysql database since 2002
 * I develop on SASS systems and hosted on AWS
 * Versioning with GIT and CI/CD to deploy the application
