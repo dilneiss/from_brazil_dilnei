@@ -7,7 +7,7 @@ Today my summary experience would be:
 * 6 years with Laravel.
 * I also work a lot with: Lumen, Slim, Codeigniter, VueJS, Angular.
 * Experienced in unit testing, integration and end-to-end.
-* I have extensive experience in Agile methodologies.
+* I have extensive experience in Agile methodologies and software development lifecycle (SDLC).
 * I am energetic, independent and able to navigate high-stress situations to achieve goals.
 
 ### Areas I've worked on (Newest First)
