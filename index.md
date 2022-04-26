@@ -12,14 +12,14 @@ Today my summary experience would be:
 
 ### Areas I've worked on (Newest First)
 
-#### Fullstack developer, financial squad - Conecta Lá 06/2021
+#### Backend developer, financial squad - Conecta Lá 06/2021
 * Payment gateway API integrations
 * Integrations with Marketplaces and Hubs
 * Restful API development for the virtual store
 * Monitoring and maintenance of system errors.
 * Process performance optimization
 
-#### Fullstack Developer - Climba Commerce 01/2012 - 06/2021
+#### Backend Developer - Climba Commerce 01/2012 - 06/2021
 * Payment gateway API integrations
 * Carrier API integrations
 * Integrations with Marketplaces and Hubs
