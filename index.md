@@ -55,13 +55,7 @@ I didn't feel the need to have a professional training in college, because it do
 #### Back End / Frameworks
 * PHP ![badge](https://img.shields.io/badge/Advanced-from_2002-blue)
 * Laravel ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
-* Lumen ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
-* Code Igniter ![badge](https://img.shields.io/badge/Medium-from_2021-green)
-* Node JS ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
-* C# + .NET ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
-* Python ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
-* Go lang ![badge](https://img.shields.io/badge/Learning-from_2021-lightgrey)
 * Unit Tests (PHPUnit) ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 
 #### Front End / Frameworks
@@ -107,8 +101,5 @@ I didn't feel the need to have a professional training in college, because it do
 * Object Orientation (OOP) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Messaging (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 
-### Languages
-Advanced English (I can read/write without any difficulty, I can hear and understand 95% of the speeches, I can speak a lot in English too, but as I don't practice much on a daily basis, I have a little difficulty, but I intend to work on it so I don't have no barrier)
-
 ### Why should I be hired?
-I am not just another programmer in the world, I am a programmer who is passionate about what he does, loves to always learn new things, is not afraid of a challenge and always manages to deliver the work with the best possible quality. I'm very demanding of myself.
+I am a programmer who is passionate about what he does, loves to always learn new things, is not afraid of a challenge and always manages to deliver the work with the best possible quality.
