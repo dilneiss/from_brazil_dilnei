@@ -13,6 +13,8 @@ Today my summary experience would be:
 ### Areas I've worked on (Newest First)
 
 #### Backend developer, financial squad - Conecta Lá 06/2021
+I started here as a Senior programmer. Skills used all the time here: PHP, Code Igniter, Mysql, REST, Bootstrap, Vue.js, javascript. Conecta lá is a platform that offers complete solutions for those who want to sell on the Marketplace and even for large Marketplaces to manage their business, such as financial reconciliation for sellers. Today we work with major brands, such as: Reserva, Grupo Soma, Ortobon, polishop, decathlon etc.
+Some of my services at Conecta Lá:
 * Payment gateway API integrations
 * Integrations with Marketplaces and Hubs
 * Restful API development for the virtual store
@@ -20,6 +22,11 @@ Today my summary experience would be:
 * Process performance optimization
 
 #### Backend Developer - Climba Commerce 01/2012 - 06/2021
+I started here as a Junior programmer.
+Skills used all the time here: PHP, Slim Framework, Mysql, Redis, Docker, RabbitMQ, REST, Bootstrap, Angular, Javascript, SCSS, AWS, Cloudflare.
+Initially Climba was a software factory, where it developed websites, systems and ecommerce.
+Later we stopped with websites and systems, and turned into a unique product, which would be a SASS ecommerce platform, hosted on AWS.
+Inside, I participated in all existing products until 06/2021, where some of them would be:
 * Payment gateway API integrations
 * Carrier API integrations
 * Integrations with Marketplaces and Hubs
@@ -34,6 +41,15 @@ Today my summary experience would be:
 * Prevention and resolution of common connectivity issues.
 * Use of process improvement methods to improve service quality.
 * Creation and maintenance of computer networks in companies, schools, public agencies, hospitals and homes.
+
+### Other experiences
+* I currently work on my own system to perform product integrations with Marketplaces, where in this system I use it for my own daily training. In it I am using the laravel framework, always following the best practices and tools, such as: Clean Code, Object Oriented, Design Patterns, Messaging, Laravel Forge, Laravel Vapor, Laravel Backpack etc.. Exploring every part of laravel and keeping my mind always sharp in Laravel.
+* I created a physical media organization system, to easily find them (I had many at home)
+* Created and marketed a service order control system for cell phone maintenance.
+* Created and marketed a work order control system for computer maintenance.
+- Created ecommerce to sell products with dropshipping (and earn extra income)
+- I created a blog in wordpress for general tutorials (today it is no longer on the air)
+- I created a website for hosting links and discount coupons from virtual stores - https://www.bembarato.org
 
 ### Formation
 I didn't feel the need to have a professional training in college, because it doesn't teach me everything I need to know, I've always been a person to go after what I really want, so all the knowledge and experiences came from research, courses, work and a lot of dedication.
