@@ -9,6 +9,7 @@ Today my summary experience would be:
 * Experienced in unit testing, integration and end-to-end.
 * I have extensive experience in Agile methodologies and software development lifecycle (SDLC).
 * I am energetic, independent and able to navigate high-stress situations to achieve goals.
+* Strong desire in constant learning of new technologies and methodologies.
 
 ### Areas I've worked on (Newest First)
 
