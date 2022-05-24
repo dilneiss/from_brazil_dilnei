@@ -118,5 +118,6 @@ I didn't feel the need to have a professional training in college, because it do
 * Object Orientation (OOP) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Messaging (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 
-### Why should I be hired?
-I am a programmer who is passionate about what he does, loves to always learn new things, is not afraid of a challenge and always manages to deliver the work with the best possible quality.
+### Contacts
+* E-mail: dilnei.soethe@gmail.com
+* Linkedin: https://www.linkedin.com/in/dilnei-soethe-spancerski-bn-sc/
