@@ -74,6 +74,9 @@ I didn't feel the need to have a professional training in college, because it do
 * Laravel ![badge](https://img.shields.io/badge/Advanced-from_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 * Unit Tests (PHPUnit) ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
+* Octane ![badge](https://img.shields.io/badge/Advanced-from_2021-blue)
+* Vapor ![badge](https://img.shields.io/badge/Basic-from_2021-blue)
+* Forge ![badge](https://img.shields.io/badge/Advanced-from_2021-blue)
 
 #### Front End / Frameworks
 * CSS ![badge](https://img.shields.io/badge/Basic-from_2002-yellow)
@@ -117,6 +120,10 @@ I didn't feel the need to have a professional training in college, because it do
 * Design Patterns ![badge](https://img.shields.io/badge/Advanced-from_2018-blue)
 * Object Orientation (OOP) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
 * Messaging (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Advanced-from_2014-blue)
+
+### Projetos em que eu trabalhei ou tenho trabalhado
+* Bem Barato - https://www.bembarato.org/ - Made with laravel
+* Hubiss - https://www.hubiss.com.br - Made with Laravel + Backpack + Forge + Octane
 
 ### Contacts
 * E-mail: dilnei.soethe@gmail.com
